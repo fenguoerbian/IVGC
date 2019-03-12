@@ -5,15 +5,15 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 IVGC-manual.pdf provides details of the usage of the package.
 # Example
 
- library("mvtnorm")
- library("glmnet")
+    library("mvtnorm")
+    library("glmnet")
 
- load("simulatedData.RData")
- S=simulatedData$gene
- X=simulatedData$X
- Y=simulatedData$Y
- G=simulatedData$graph
- fit = main(Y,X,S,G)
+    load("simulatedData.RData")
+    y=simulatedData$Y
+    x=simulatedData$X   
+    S=simulatedData$gene
+    G=simulatedData$graph
+    fit = main(y,x,S,G)
  
  # References
 Gao, B., Liu, X., Li, H. and Cui, Y. (2019+) Integrative Analysis of Genetical Genomics Data Incorporating Network Structures. Manuscript.
