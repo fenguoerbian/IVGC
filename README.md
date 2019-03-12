@@ -5,6 +5,7 @@ Download the IVGC_1.0.1.tar.gz for Windows user to loacal computer, and install 
 
     In R commend: install.packages("localpath/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
     localpath: the path to which you download the package 
+    Example: install.packages("E:/xliu/package/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
 
 # Usage
 
