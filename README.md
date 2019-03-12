@@ -4,6 +4,7 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 # Usage
 IVGC-manual.pdf provides details of the usage of the package.
 # Example
+
  library("mvtnorm")
  library("glmnet")
 
