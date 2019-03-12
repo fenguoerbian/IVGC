@@ -3,7 +3,7 @@ Efficient two-step procedure to achieve variable selection and estimation under 
 # Installation
 Download the IVGC_1.0.1.tar.gz for Windows user to loacal computer, and install it loacally.
 
-    In R commend: install.packages("localpath/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
+    In R command: install.packages("localpath/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
     localpath: the path to which you download the package 
     Example: install.packages("E:/xliu/package/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
 
