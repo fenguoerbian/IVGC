@@ -1,8 +1,12 @@
 # IVGC
 Efficient two-step procedure to achieve variable selection and estimation under an IV regression framework by incorporating gene network information. The method is applicable in both low and high dimensional situations and the cyclical coordinate descent algorithm is used to solve them.
+# Installation
+Download the IVGC_1.0.1.tar.gz for Windows user to loacal computer, and install it loacally.
+
+    In R commend: install.packages("localpath/IVGC_1.0.1.tar.gz", repos = NULL, type = "source")
+    localpath: the path to which you download the package 
 
 # Usage
-Download the IVGC_1.0.1.tar.gz for Windows user to loacal computer, and install it loacally.
 
     IVGC-manual.pdf ---------------- Details of the usage of the package.
     IVGC_1.0.1.tar.gz  ------------- The package for Windows user.
