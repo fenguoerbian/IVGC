@@ -15,7 +15,7 @@ Download the IVGC_1.0.1.tar.gz for Windows user to loacal computer, and install 
     library("mvtnorm")
     library("glmnet")
 
-    load("simulatedData.RData")
+    data(simulatedData)
     y=simulatedData$Y
     x=simulatedData$X   
     S=simulatedData$gene
