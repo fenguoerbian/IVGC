@@ -2,7 +2,7 @@
 Efficient two-step procedure to achieve variable selection and estimation under an IV regression framework by incorporating considerable correlation information between variables. The method is applicable in both low and high dimensional situations and the cyclical coordinate descent algorithm is used to solve them.
 
 # Usage
-    IVGC-manual.pdf provides details of the usage of the package.
+    IVGC-manual.pdf ---------------- Details of the usage of the package.
     IVGC_1.0.1.tar.gz  ------------- The package for Windows user.
     IVGC_1.0.1.gz  ----------------- The package for Mac user.
 # Example
